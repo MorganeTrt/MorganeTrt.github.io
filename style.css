@@ -1,0 +1,68 @@
+h1 {
+	color: #0d0d0d !important; 
+}
+h2 {
+	color: black !important;
+}
+body {
+	background-color: #FBF5EF !important;
+	/*text-align: center;*/
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+
+#avatar {
+	width: 200px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.network {
+	width: 50px;
+}
+
+.red-border {
+	border: solid 2px black;
+}
+
+.cadre{
+	background-color: grey;
+	padding: 30px;
+	margin: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border: dotted; 3px black;
+	border-radius: 10px;
+}
+
+.yellow{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	/*position: relative;*/
+}
+.grey{
+	background-color: grey;
+	width: 25px;
+	height: 25px;
+	/*position: absolute;
+	bottom: 0px;
+	right: 0px;*/
+
+}
+
+.orange{
+	background-color: orange;
+	width: 25px;
+	height: 25px;
+/*	position: absolute;
+	bottom: 0px;
+	right: 0px;*/
+
+
+
+
+
+
+
